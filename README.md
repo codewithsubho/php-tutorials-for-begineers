@@ -1,1 +1,1 @@
-# php-tutorials-for-begineers
+# php-tutorials-for-beginners
